@@ -23,7 +23,6 @@ Streamlit
 google-generativeai library
 python-dotenv library
 Step 1: Clone the repository
-git clone https://github.com/vjabhi000985/AI_Code_Reviewer.git
 cd AI_Code_Reviewer
 Step 2: Set up the environment
 Create a .env file in the root directory of the project and add your Google API key:
